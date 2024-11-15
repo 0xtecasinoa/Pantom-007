@@ -1,7 +1,7 @@
 # Favorite Saying 👍
 
 ```rust
-/// Pantom-007's motto
+/// 0xtecasinoa's motto
 struct BillGates;
 
 impl BillGates {
