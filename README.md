@@ -1,8 +1,26 @@
-<center><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header"></center>
+# Favorite Saying 👍
 
-# <center align="center"> I'm Fullstack & Blockchain developer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </center>
+```rust
+/// Pantom-007's motto
+struct BillGates;
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+impl BillGates {
+  /// Return Bill Gates quote
+  fn said(&self) -> &str {
+    "Measuring programming progress by lines of codes \
+    is like measuring aircraft building progress by weight."
+  }
+}
+
+fn main() {
+  let bill_gate = BillGate;
+
+  println!("Bill Gates - {}", bill_gate.said());
+}
+```
+
+
+# Rust Engineer ![](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 <p> 
     Master: <br />
     <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="linux" width="60" height="60"/>
